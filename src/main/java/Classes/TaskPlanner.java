@@ -3,9 +3,9 @@ package Classes;
 
 import Enums.Status;
 
-import ru.lakeevda.lesson3.homework.repository.AssignmentRepository;
-import ru.lakeevda.lesson3.homework.repository.EmployeeRepository;
-import ru.lakeevda.lesson3.homework.repository.FreeTaskRepository;
+import Repository.AssignmentRepository;
+import Repository.EmployeeRepository;
+import Repository.FreeTaskRepository;
 
 import java.util.List;
 
